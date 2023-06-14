@@ -1,0 +1,22 @@
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Tell me the answer to 2+4*3-7=?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Is 1000 bigger than 1062?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "What is the value of the expression 1/(1+2)?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "what's the value of 4839+3948-45?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Is 103 a prime number?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2)."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Jeff takes 20 minutes to jog around the race course one time, and 25 minutes to jog around a second time. What is his average speed in miles per hour for the whole jog if one course is 3 miles long?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Solve for x in the equation 3x + 10 = 5(x - 2)."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "If the endpoints of a line segment are (2, -2) and (10, 4), what is the length of the segment?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "If a square has a diagonal of length 10, what is its area?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Count odd numbers from 0 to 10, then count even numbers from 5 to 16."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "I have an exercise in game of theory class that I should find all equilibriums in rock paper scissors game. Could you help me with this exercise?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "If I go on parental leave on 24 April 2022 and return on 9 September 2022, how many working days would I be gone for?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Jeff takes 20 minutes to jog around the race course one time, and 25 minutes to jog around a second time. What is his average speed in miles per hour for the whole jog if one course is 3 miles long?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Solve for x in the equation 3x + 10 = 5(x - 2)."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "If a square has a diagonal of length 10, what is its area?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Prove that 5 + 3 = 9."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Prove the existence of uncountable sets using Cantor's diagonalization."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Prove that every set is countable."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "How do we know some numbers, like Pi are endless, instead of just a very long number?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "How can we make 5 + 3 = 9?"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "How would one solve length generalization with position embeddings?"}], "references": null}

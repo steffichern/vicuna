@@ -1,0 +1,26 @@
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "我周末i要到北京玩儿，有什么小众的景点推荐吗？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "麻辣螺丝钉怎么做"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "给一个小学一年级学生解释一下：量子力学（Quantum Mechanics），为物理学理论，是研究物质世界微观粒子运动规律的物理学分支，主要研究原子、分子、凝聚态物质，以及原子核和基本粒子的结构、性质的基础理论。它与相对论一起构成现代物理学的理论基础。量子力学不仅是现代物理学的基础理论之一，而且在化学等学科和许多近代技术中得到广泛应用。"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "小明立志成为最成功的投资人，经过一番努力，最终他成功了。请问用什么谚语描述这个情况比较适合？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "庆祝胜利的乐曲有些过时，打一导演"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "根据描述帮我起个产品名字吧 产品描述：家用搅拌机 关键词：快速、健康、小巧"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "用牛肉、草莓、萝卜、木薯、罗勒叶、百里香、苹果帮我生成一个晚餐食谱"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "五个兄弟，住在一起，名字不同，高矮不齐，打一人体器官"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "屋子方方，有门没窗，屋外热烘，屋里冰霜，打一物"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "列一个包含顶级科幻电影和发行年份的两列电子表格：标题 | 发布年份"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "请根据前半段完成剩下的句子：约翰认为他需要帮助，但他真的需要帮助吗？约翰认为珠宝商喜欢电视，但....."}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "猜谜：“solution woman had found is a turning point”答一个单词"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "猜谜语：埋在奴家心底，打一字"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "列举10本科幻小说："}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "帮我推荐些类似于《角斗士》、《抵押品》、《塔拉迪加之夜》、《里基-鲍比的歌谣》、《英格丽特岛》、《禁闭岛》、《小镇》、《内部工作》、《华尔街之狼》、《星际》、《疯狂的麦克斯愤怒之路》的电影。"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "帮我推荐些类似《哈利波特》《原则》《跨越鸿沟》《追风筝的人》这样的书"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "给下面的词分类：Michael Jordan, machine learning, basketball, baseball, black"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "请给以下公司分类：Apple、Facebook、Fedex"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "猜一猜这个谜语：我正站在巴黎那个非常著名的艺术博物馆里，看着那幅最著名的画作，而艺术家的名字让我想起了我小时候最喜欢的卡通角色。这个角色通常使用的物品的发源地是哪个？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "研究古罗马时我应该学习的 5 个要点是什么？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "研究量子力学我该学习的五个要点是什么？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "研究红楼梦我该学习的五个要点是什么？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "帮我推荐些类似于《角斗士》、《抵押品》、《塔拉迪加之夜》、《里基-鲍比的歌谣》、《英格丽特岛》、《禁闭岛》、《小镇》、《内部工作》、《华尔街之狼》、《星际》、《疯狂的麦克斯愤怒之路》的电影。"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "帮我推荐些类似《哈利波特》《原则》《跨越鸿沟》《追风筝的人》这样的书"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "这是我的电影片单《银翼杀手》、《饥饿游戏》、《孩子与狗》、《AKIRA》、《阿甘正传》、《巴西》、《龙虾》、《V字仇杀队》、《华尔街之狼》、《攻壳特工队》、《疯狂麦克斯》、《两小无猜》、《恋恋笔记本》、《怦然心动》，分析看我不喜欢哪一部？"}], "references": null}
+{"input": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "What are the most effective ways to deal with stress?"}], "references": null}
